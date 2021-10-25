@@ -1,6 +1,6 @@
 package org.task;
 
-public  class Demo extends B{
+public  class Demo {
 	
 	public Demo(){
 	

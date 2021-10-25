@@ -14,17 +14,7 @@ public class FileHandling {
 		
 		//If you want to read text file
 		
-	   FileReader f1 = new FileReader(f);
-	   
-	   char[] a =new char[100];
-		
-		f1.read(a);
-		
-		for (char c : a) {
-			
-			System.out.print(c);
-			
-		}
+	   System.out.println("Today's task");
 		
 		
 		
